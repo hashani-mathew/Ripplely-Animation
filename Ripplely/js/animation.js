@@ -1,6 +1,6 @@
 import LiquidBackground from 'https://cdn.jsdelivr.net/npm/threejs-components@0.0.27/build/backgrounds/liquid1.min.js';
 
-        const IMAGE = './src/images/background.jpg';
+        const IMAGE = './Ripplely/src/images/background.jpg';
 
         const canvas = document.getElementById('water');
 
