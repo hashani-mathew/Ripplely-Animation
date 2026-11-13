@@ -27,6 +27,9 @@ Ripplely/
     └── main.css
 ├── js
     └── animation.js
+├── src
+    └── images
+        └── background.jpg
 └── README.md
 ```
 
