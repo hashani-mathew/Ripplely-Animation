@@ -30,6 +30,7 @@ Ripplely/
 ├── src
     └── images
         └── background.jpg
+        └── favicon.ico
 └── README.md
 ```
 
