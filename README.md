@@ -1,8 +1,8 @@
-# 🌊 Ripplely – Interactive Liquid Experience
+# Ripplely – Interactive Liquid Experience
 
 **Ripplely** is a simple webpage that offers an oddly satisfying liquid experience. Featuring smooth water distortions, fluid-like movements, and interactive ripple effects, this project explores the creative possibilities of modern web graphics.
 
-## ✨ Explore the Animation
+## Explore the Animation
 
 - Move your mouse across the screen.
 - Observe the interactive liquid distortions.
@@ -34,13 +34,13 @@ Ripplely/
 └── README.md
 ```
 
-## 🎯 Project Purpose
+## Project Purpose
 
 This project explores interactive web animation, creative coding, and WebGL-based visual effects.
 
 It demonstrates how modern web technologies can be combined to create visually engaging digital experiences without relying on traditional video backgrounds.
 
-## 👩‍💻 Author
+## Author
 
 **Hashani Mathew**
 
